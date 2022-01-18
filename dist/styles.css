@@ -485,16 +485,12 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-right: auto;
 }
 
-.mt-\[130px\] {
-  margin-top: 130px;
+.mt-\[150px\] {
+  margin-top: 150px;
 }
 
 .mt-4 {
   margin-top: 1rem;
-}
-
-.mt-\[150px\] {
-  margin-top: 150px;
 }
 
 .flex {
@@ -507,10 +503,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .w-full {
   width: 100%;
-}
-
-.w-1\/2 {
-  width: 50%;
 }
 
 .items-center {
@@ -531,10 +523,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   --tw-space-y-reverse: 0;
   margin-top: calc(1rem * calc(1 - var(--tw-space-y-reverse)));
   margin-bottom: calc(1rem * var(--tw-space-y-reverse));
-}
-
-.rounded-lg {
-  border-radius: 0.5rem;
 }
 
 .border-2 {
@@ -658,10 +646,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 @media (min-width: 768px) {
-  .md\:max-w-\[400px\] {
-    max-width: 400px;
-  }
-
   .md\:max-w-\[768px\] {
     max-width: 768px;
   }
