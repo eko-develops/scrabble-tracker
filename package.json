@@ -1,0 +1,16 @@
+{
+  "name": "scrabble-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/styles.css -o ./dist/styles.css --watch",
+    "build": "npx tailwindcss -i ./src/styles.css -o ./dist/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.15"
+  }
+}
